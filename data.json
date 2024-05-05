@@ -1,0 +1,11 @@
+{
+    "name": "The ultimate docker course",
+    "price": 345,
+    "is_published": true,
+    "tags": ["Developer","Devops"],
+    "author": {
+        "first_name": "Mosh",
+        "last_name": "Hamedani"
+    }
+
+}
